@@ -1312,46 +1312,6 @@ a {
     padding: 1rem;
   }
 }
-#custom-html-1x {
-  /* Type valid CSS here */
-}
-#custom-html-1x div {
-  padding-top: 100px;
-  padding-bottom: 10px;
-  color: white;
-  text-align: center;
-  background-color: #000;
-}
-#custom-html-1x .my-elementheader {
-  display: inline-block;
-  margin: 0 0.5rem;
-  letter-spacing: -1px;
-  animation: bounce;
-  /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 3s;
-  /* don't forget to set a duration! */
-  animation-delay: 1s;
-}
-#custom-html-1x .my-elementspan {
-  display: inline-block;
-  margin: 0 0.5rem;
-  padding: 10pt;
-  font-size: 14pt;
-  animation: bounce;
-  /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 2s;
-  /* don't forget to set a duration! */
-}
-#custom-html-1x .my-element {
-  display: inline-block;
-  margin: 0 0.5rem;
-  letter-spacing: -1px;
-  animation: fade;
-  /* referring directly to the animation's @keyframe declaration */
-  animation-duration: 2s;
-  /* don't forget to set a duration! */
-  animation-delay: 2s;
-}
 .cid-ujaseIiTwz {
   display: flex;
   background-image: url("../../../assets/images/background-berry-fade-1-2000x1333.jpg");
@@ -1407,20 +1367,55 @@ a {
   text-align: center;
   color: #ffffff;
 }
-#custom-html-1y {
+#custom-html-1x {
   /* Type valid CSS here */
 }
-#custom-html-1y div {
-  padding: 10pt;
+#custom-html-1x div {
+  padding: 20px;
   color: white;
   text-align: center;
   background-color: #000;
 }
-#custom-html-1y p {
-  font-size: 20px;
-  color: white;
-  padding: 10px;
-  line-height: 1.5;
+#custom-html-1x .my-elementheader {
+  display: inline-block;
+  margin: 0 0.5rem;
+  font-size: 40pt;
+  font-weigth: bold;
+  animation: fade;
+  /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 1s;
+  /* don't forget to set a duration! */
+  animation-delay: 1s;
+}
+#custom-html-1x .my-elementspan {
+  display: inline-block;
+  margin: 0 0.5rem;
+  padding: 10pt;
+  font-size: 20pt;
+  animation: fade;
+  /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+  /* don't forget to set a duration! */
+}
+#custom-html-1x .my-sub-elementspan {
+  display: inline-block;
+  margin: 0 0.5rem;
+  padding: 10pt;
+  font-size: 16pt;
+  animation: fade;
+  /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+  /* don't forget to set a duration! */
+}
+#custom-html-1x .my-element {
+  display: inline-block;
+  margin: 0 0.5rem;
+  letter-spacing: -1px;
+  animation: fade;
+  /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
+  /* don't forget to set a duration! */
+  animation-delay: 2s;
 }
 .cid-ujtf5JXw2B {
   padding-top: 6rem;
