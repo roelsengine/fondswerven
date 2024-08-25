@@ -1385,57 +1385,6 @@ a {
 #custom-html-2a h1 {
   font-size: 45px;
 }
-.cid-umtmW5uc4N {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #ffffff;
-}
-.cid-umtmW5uc4N .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-umtmW5uc4N .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-umtmW5uc4N .dot {
-  width: 6px;
-  height: 6px;
-  background: currentColor;
-}
-.cid-umtmW5uc4N .dot-right {
-  margin-right: 0;
-  margin-left: auto;
-}
-@media (min-width: 1500px) {
-  .cid-umtmW5uc4N .container {
-    max-width: 1400px;
-  }
-}
-.cid-umtmW5uc4N .mbr-iconfont {
-  display: block;
-  font-size: 4rem;
-  color: #333333;
-  margin-bottom: 2rem;
-}
-.cid-umtmW5uc4N .card-wrapper {
-  box-shadow: inset 0px 0px 10px 6px rgba(0, 0, 0, 0.1);
-  padding: 2rem;
-  padding-top: 3rem;
-  border-radius: 2rem;
-}
-.cid-umtmW5uc4N .row {
-  justify-content: center;
-}
-.cid-umtmW5uc4N .card-title,
-.cid-umtmW5uc4N .iconfont-wrapper,
-.cid-umtmW5uc4N .dot {
-  color: #000000;
-}
 .cid-ujtf5JXw2B {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1469,57 +1418,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-}
-.cid-umtmSPe4AW {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #ffffff;
-}
-.cid-umtmSPe4AW .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-umtmSPe4AW .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-umtmSPe4AW .dot {
-  width: 6px;
-  height: 6px;
-  background: currentColor;
-}
-.cid-umtmSPe4AW .dot-right {
-  margin-right: 0;
-  margin-left: auto;
-}
-@media (min-width: 1500px) {
-  .cid-umtmSPe4AW .container {
-    max-width: 1400px;
-  }
-}
-.cid-umtmSPe4AW .mbr-iconfont {
-  display: block;
-  font-size: 4rem;
-  color: #333333;
-  margin-bottom: 2rem;
-}
-.cid-umtmSPe4AW .card-wrapper {
-  box-shadow: inset 0px 0px 10px 6px rgba(0, 0, 0, 0.1);
-  padding: 2rem;
-  padding-top: 3rem;
-  border-radius: 2rem;
-}
-.cid-umtmSPe4AW .row {
-  justify-content: center;
-}
-.cid-umtmSPe4AW .card-title,
-.cid-umtmSPe4AW .iconfont-wrapper,
-.cid-umtmSPe4AW .dot {
-  color: #000000;
 }
 .cid-ujtfdkivTQ {
   padding-top: 6rem;
@@ -1572,7 +1470,7 @@ a {
 .cid-umtmYXwTKH .mbr-iconfont {
   display: block;
   font-size: 4rem;
-  color: #333333;
+  color: #f92c50;
   margin-bottom: 2rem;
 }
 .cid-umtmYXwTKH .card-wrapper {
