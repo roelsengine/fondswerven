@@ -1652,6 +1652,24 @@ a {
   padding: 15px;
   line-height: 1.5;
 }
+#custom-html-2j {
+  /* Type valid CSS here */
+}
+#custom-html-2j div {
+  padding: 20pt ;
+  color: white;
+  text-align: center;
+  background-color: #000;
+}
+#custom-html-2j p {
+  font-size: 24px;
+  color: white;
+  padding: 15px;
+  line-height: 1.5;
+}
+#custom-html-2j h1 {
+  font-size: 45px;
+}
 .cid-umA74PfZr5 {
   padding-top: 2rem;
   padding-bottom: 0rem;
@@ -1711,117 +1729,6 @@ a {
 }
 .cid-umA74PfZr5 .card-text {
   color: #757b62;
-}
-#custom-html-2j {
-  /* Type valid CSS here */
-}
-#custom-html-2j div {
-  padding: 20pt ;
-  color: white;
-  text-align: center;
-  background-color: #000;
-}
-#custom-html-2j p {
-  font-size: 24px;
-  color: white;
-  padding: 15px;
-  line-height: 1.5;
-}
-#custom-html-2j h1 {
-  font-size: 45px;
-}
-.cid-umtmjKU22B {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #000000;
-}
-.cid-umtmjKU22B .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-umtmjKU22B .item-wrapper {
-  display: flex;
-  margin-bottom: 2rem;
-  margin-top: 1rem;
-}
-@media (max-width: 767px) {
-  .cid-umtmjKU22B .item-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-umtmjKU22B .item-wrapper:hover .iconfont-wrapper:after {
-  width: 70px;
-  height: 70px;
-}
-.cid-umtmjKU22B a {
-  font-weight: 600;
-}
-.cid-umtmjKU22B a:hover {
-  background: none !important;
-}
-@media (min-width: 1400px) {
-  .cid-umtmjKU22B .col-lg-3,
-  .cid-umtmjKU22B .col-xl-3 {
-    max-width: 20%;
-  }
-}
-@media (max-width: 1200px) {
-  .cid-umtmjKU22B .col-lg-12 {
-    min-width: 100% !important;
-  }
-}
-.cid-umtmjKU22B .card-box {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.cid-umtmjKU22B h5 {
-  margin: 0;
-}
-.cid-umtmjKU22B .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-umtmjKU22B .iconfont-wrapper {
-  position: relative;
-}
-.cid-umtmjKU22B .mbr-iconfont {
-  display: flex;
-  padding-right: 1rem;
-  font-size: 2rem;
-  color: #ffffff;
-  justify-content: center;
-  align-items: center;
-  border-radius: 50%;
-  z-index: 2;
-  position: relative;
-}
-.cid-umtmjKU22B .socicon {
-  font-size: 1rem;
-  width: 30px;
-  height: 30px;
-}
-.cid-umtmjKU22B .sociconfont-wrapper {
-  display: flex;
-}
-.cid-umtmjKU22B .card-title,
-.cid-umtmjKU22B .iconfont-wrapper {
-  color: #ffffff;
-}
-.cid-umtmjKU22B .card-text {
-  color: #ffffff;
-}
-.cid-umtmjKU22B .mbr-section-title {
-  color: #000000;
-}
-.cid-umtmjKU22B .main-title,
-.cid-umtmjKU22B .iconfont-wrapper {
-  text-align: left;
-  color: #ffffff;
 }
 .cid-ujJJXeSvrs {
   padding-top: 2rem;

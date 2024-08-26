@@ -1317,6 +1317,22 @@
           "_params": {}
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1><strong>Samen kunnen we een verschil maken!</strong></h1>\n    <p class=\"samen-verschil-maken\">Hoe creëer ik betrokkenheid? Door mensen te raken en open te zijn over het werk van uw stichting kunt u veel mensen meenemen in uw werk en ondersteuning vragen.</p>\n    \n    \n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 20pt ;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\np {\n  font-size: 24px;\n  color: white;\n    padding:15px;\n    line-height:1.5;\n}\n\nh1{\n    font-size:45px;\n    \n    \n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-2j"
+        },
+        {
           "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
@@ -1392,135 +1408,6 @@
           "_anchor": "contacts01-2o",
           "_isUserblock": true,
           "_cid": "umA74PfZr5",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1><strong>Samen kunnen we een verschil maken!</strong></h1>\n    <p class=\"samen-verschil-maken\">Hoe creëer ik betrokkenheid? Door mensen te raken en open te zijn over het werk van uw stichting kunt u veel mensen meenemen in uw werk en ondersteuning vragen.</p>\n    \n    \n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 20pt ;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\np {\n  font-size: 24px;\n  color: white;\n    padding:15px;\n    line-height:1.5;\n}\n\nh1{\n    font-size:45px;\n    \n    \n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "startm5",
-          "_JSplaceholders": [],
-          "_PHPplaceholders": [],
-          "_params": {},
-          "_anchor": "custom-html-2j"
-        },
-        {
-          "_name": "contacts2",
-          "_sourceTheme": "formulam5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"formulam5 contcts2\" group=\"Contact\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showMainTitle\">\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Icons\" name=\"showIcon\" checked>\n        <input type=\"color\" title=\"Icon Color\" name=\"iconColor\" value=\"#ffffff\" selected condition=\"showIcon\">\n        <input type=\"range\" inline title=\"Soc Icons\" name=\"soc\" min=\"1\" max=\"5\" step=\"1\" value=\"1\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"@ADDONS_PATH@/formulam5/components/_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <header condition=\"bg.type === 'video'\">Fallback Image</header>\n        <input type=\"image\" title=\"Fallback Image\" value=\"@ADDONS_PATH@/formulam5/components/_images/background1.jpg\" name=\"fallBackImage\" condition=\"bg.type === 'video'\">\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-fallback-image disabled\" mbr-if=\"bg.type == 'video'\"></div>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\"></div>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center mb-5\" mbr-if=\"showMainTitle || showMainSubtitle\">\n            <div class=\"col-12 mb-0 content-head\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-center\" mbr-theme-style=\"display-2\" mbr-if=\"showMainTitle\" data-app-selector=\".mbr-section-title\">\n                    <b>Contacts</b>\n                </h3>\n\n            </div>\n        </div>\n        <div class=\"row\">\n            <div class=\"col-12 col-md-12 col-lg-12 col-xl-3 active\">\n                <div class=\"item-wrapper\">\n                    <div class=\"card-box align-left\">\n\n                        <h5 class=\"main-title mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".main-title, .iconfont-wrapper\"><b>Contact</b></h5>\n\n\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-6 col-lg-3\">\n                <h5 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\" data-app-selector=\".card-title, .iconfont-wrapper\">Bezoek ons</h5>\n                <div class=\"item-wrapper\">\n\n                    <div class=\"iconfont-wrapper\" mbr-if=\"showIcon\">\n\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-map-pin mobi-mbri\"></span>\n                    </div>\n                    <div class=\"card-box align-left\">\n\n\n                        <p class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".card-text\">Koningslaan 39A\n<br>1075 AB. Amsterdam\n<br><br></p>\n\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-6 col-lg-3\">\n                <h5 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\" data-app-selector=\".card-title, .iconfont-wrapper\">Telefoon</h5>\n                <div class=\"item-wrapper\">\n\n                    <div class=\"iconfont-wrapper\" mbr-if=\"showIcon\">\n\n                        <a href=\"tel:0031646236355\"><span mbr-icon class=\"mbr-iconfont mobi-mbri-phone mobi-mbri\"></span></a>\n                    </div>\n                    <div class=\"card-box align-left\">\n\n\n                        <p class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".card-text\"><b>Tel&nbsp;</b><a href=\"tel:0031646236355\" class=\"text-primary\">0031646236355</a><br><br></p>\n\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-6 col-lg-3\">\n                <h5 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\" data-app-selector=\".card-title, .iconfont-wrapper\">Email</h5>\n                <div class=\"item-wrapper\">\n\n                    <div class=\"iconfont-wrapper\" mbr-if=\"showIcon\">\n\n                        <span mbr-icon class=\"mbr-iconfont mobi-mbri-letter mobi-mbri\"></span>\n                    </div>\n                    <div class=\"card-box align-left\">\n\n\n                        <p class=\"card-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".card-text\"><b>info@fondswerven.nl</b><br><br></p>\n\n                    </div>\n                </div>\n            </div>\n            \n\n\n        </div>\n    </div>\n</section>",
-          "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
-            "& when (@bg-type = \"color\")": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = \"image\")": {
-              "background-image": "url(@bg-value)"
-            },
-            ".mbr-fallback-image.disabled": {
-              "display": "none"
-            },
-            ".item-wrapper": {
-              "display": "flex",
-              "margin-bottom": "2rem",
-              "@media (max-width: 767px)": {
-                "margin-bottom": "1rem"
-              },
-              "margin-top": "1rem",
-              "&:hover": {
-                ".iconfont-wrapper": {
-                  "&:after": {
-                    "width": "70px",
-                    "height": "70px"
-                  }
-                }
-              }
-            },
-            "a": {
-              "font-weight": "600",
-              "&:hover": {
-                "background": "none !important"
-              }
-            },
-            "@media (min-width: 1400px)": {
-              ".col-lg-3, .col-xl-3": {
-                "max-width": "20%"
-              }
-            },
-            "@media (max-width: 1200px)": {
-              ".col-lg-12": {
-                "min-width": "100% !important"
-              }
-            },
-            ".card-box": {
-              "display": "flex",
-              "flex-direction": "column",
-              "justify-content": "center"
-            },
-            "h5": {
-              "margin": "0"
-            },
-            ".mbr-fallback-image": {
-              "display": "block",
-              "background-size": "cover",
-              "background-position": "center center",
-              "width": "100%",
-              "height": "100%",
-              "position": "absolute",
-              "top": "0",
-              "& when (@bg-type = \"video\")": {
-                "background-image": "url(@fallBackImage)"
-              }
-            },
-            ".iconfont-wrapper": {
-              "position": "relative"
-            },
-            ".mbr-iconfont": {
-              "display": "flex",
-              "padding-right": "1rem",
-              "font-size": "2rem",
-              "color": "@iconColor",
-              "justify-content": "center",
-              "align-items": "center",
-              "border-radius": "50%",
-              "z-index": "2",
-              "position": "relative"
-            },
-            ".socicon": {
-              "font-size": "1rem",
-              "width": "30px",
-              "height": "30px"
-            },
-            ".sociconfont-wrapper": {
-              "display": "flex"
-            },
-            ".card-title, .iconfont-wrapper": {
-              "color": "#ffffff"
-            },
-            ".card-text": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".main-title, .iconfont-wrapper": {
-              "text-align": "left",
-              "color": "#ffffff"
-            }
-          },
-          "_cid": "umtmjKU22B",
-          "_anchor": "contacts-bottom",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
