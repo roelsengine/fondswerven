@@ -1478,13 +1478,73 @@ a {
   background-color: #000;
 }
 #Fondswerven-wat-ik-doe p {
-  font-size: 32px;
+  font-size: 24px;
   color: white;
   padding: 15px;
   line-height: 1.5;
 }
 #Fondswerven-wat-ik-doe h1 {
   font-size: 50px;
+}
+.cid-umAclU0EBE {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+.cid-umAclU0EBE .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-umAclU0EBE .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-umAclU0EBE .dot {
+  width: 0px;
+  height: 0px;
+  background: currentColor;
+}
+.cid-umAclU0EBE .dot-right {
+  margin-right: 0;
+  margin-left: auto;
+}
+@media (min-width: 1500px) {
+  .cid-umAclU0EBE .container {
+    max-width: 1400px;
+  }
+}
+.cid-umAclU0EBE .mbr-iconfont {
+  display: block;
+  font-size: 50px;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+.cid-umAclU0EBE .card-wrapper {
+  box-shadow: inset 0px 0px 5px 6px rgba(0, 0, 0, 0);
+  padding: 2rem;
+  padding-top: 2rem;
+  border-radius: 2rem;
+}
+.cid-umAclU0EBE .row {
+  justify-content: center;
+}
+.cid-umAclU0EBE .card-title,
+.cid-umAclU0EBE .iconfont-wrapper,
+.cid-umAclU0EBE .dot {
+  color: #000000;
+}
+.cid-umAclU0EBE .mbr-section-title {
+  color: #ffffff;
+}
+.cid-umAclU0EBE .mbr-section-subtitle {
+  color: #f7f7f7;
+}
+.cid-umAclU0EBE .card-text {
+  color: #757b62;
 }
 .cid-umtFvABpCZ {
   padding-top: 3rem;
@@ -1596,7 +1656,7 @@ a {
   line-height: 1.5;
 }
 #custom-html-2j h1 {
-  font-size: 35px;
+  font-size: 45px;
 }
 .cid-umA74PfZr5 {
   padding-top: 2rem;
