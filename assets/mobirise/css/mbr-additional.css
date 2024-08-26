@@ -1469,7 +1469,7 @@ a {
   color: #f7f7f7;
 }
 .cid-umA72jA1yN {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #000000;
 }
@@ -1520,6 +1520,7 @@ a {
   color: #000000;
 }
 .cid-umA72jA1yN .mbr-section-title {
+  padding-bottom: 5px;
   color: #ffffff;
 }
 .cid-umA72jA1yN .mbr-section-subtitle {
