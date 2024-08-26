@@ -1048,7 +1048,7 @@
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1><strong>Fondswerven</strong></h1>\n    <p class=\"samen-verschil-maken\">Mijn werk heeft zich uitgestrekt naar het buitenland, waar ik heb bijgedragen aan de verbetering van meerdere scholen en zorginstellingen. Maar ook in Nederland help ik stichtingen bij het zoeken naar fondsen. </p>\n    \n    \n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 30px ;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\np {\n  font-size: 24px;\n  color: white;\n    padding:15px;\nline-height: 1.5;\n}\n\nh1{\n    font-size:50px;\n    \n    \n}",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 30px ;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\np {\n  font-size: 24px;\n  color: white;\n    padding:15px;\nline-height: 1.5;\n}\n\nh1{\n    font-size:40px;\n    \n    \n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
@@ -1305,22 +1305,6 @@
           "_params": {}
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1><strong>Samen kunnen we een verschil maken!</strong></h1>\n    <p class=\"samen-verschil-maken\">Hoe creëer ik betrokkenheid? Door mensen te raken en open te zijn over het werk van uw stichting kunt u veel mensen meenemen in uw werk en ondersteuning vragen.</p>\n    \n    \n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 20pt ;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\np {\n  font-size: 24px;\n  color: white;\n    padding:15px;\n    line-height:1.5;\n}\n\nh1{\n    font-size:45px;\n    \n    \n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "startm5",
-          "_JSplaceholders": [],
-          "_PHPplaceholders": [],
-          "_params": {},
-          "_anchor": "custom-html-2j"
-        },
-        {
           "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
@@ -1400,6 +1384,22 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1><strong>Samen kunnen we een verschil maken!</strong></h1>\n    <p class=\"samen-verschil-maken\">Hoe creëer ik betrokkenheid? Door mensen te raken en open te zijn over het werk van uw stichting kunt u veel mensen meenemen in uw werk en ondersteuning vragen.</p>\n    \n    \n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 20pt ;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\np {\n  font-size: 24px;\n  color: white;\n    padding:15px;\n    line-height:1.5;\n}\n\nh1{\n    font-size:45px;\n    \n    \n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "startm5",
+          "_JSplaceholders": [],
+          "_PHPplaceholders": [],
+          "_params": {},
+          "_anchor": "custom-html-2j"
         },
         {
           "_name": "contacts2",

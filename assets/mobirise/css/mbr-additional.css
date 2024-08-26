@@ -1484,7 +1484,7 @@ a {
   line-height: 1.5;
 }
 #Fondswerven-wat-ik-doe h1 {
-  font-size: 50px;
+  font-size: 40px;
 }
 .cid-umAclU0EBE {
   padding-top: 2rem;
@@ -1640,24 +1640,6 @@ a {
 .cid-ujtfdkivTQ .mbr-section-subtitle {
   color: #ffffff;
 }
-#custom-html-2j {
-  /* Type valid CSS here */
-}
-#custom-html-2j div {
-  padding: 20pt ;
-  color: white;
-  text-align: center;
-  background-color: #000;
-}
-#custom-html-2j p {
-  font-size: 24px;
-  color: white;
-  padding: 15px;
-  line-height: 1.5;
-}
-#custom-html-2j h1 {
-  font-size: 45px;
-}
 .cid-umA74PfZr5 {
   padding-top: 2rem;
   padding-bottom: 0rem;
@@ -1717,6 +1699,24 @@ a {
 }
 .cid-umA74PfZr5 .card-text {
   color: #757b62;
+}
+#custom-html-2j {
+  /* Type valid CSS here */
+}
+#custom-html-2j div {
+  padding: 20pt ;
+  color: white;
+  text-align: center;
+  background-color: #000;
+}
+#custom-html-2j p {
+  font-size: 24px;
+  color: white;
+  padding: 15px;
+  line-height: 1.5;
+}
+#custom-html-2j h1 {
+  font-size: 45px;
 }
 .cid-umtmjKU22B {
   padding-top: 2rem;
