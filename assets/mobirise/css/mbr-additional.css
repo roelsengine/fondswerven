@@ -1468,67 +1468,6 @@ a {
 .cid-ujtf5JXw2B .mbr-section-subtitle {
   color: #f7f7f7;
 }
-.cid-umA72jA1yN {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #000000;
-}
-.cid-umA72jA1yN .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-umA72jA1yN .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-umA72jA1yN .dot {
-  width: 0px;
-  height: 0px;
-  background: currentColor;
-}
-.cid-umA72jA1yN .dot-right {
-  margin-right: 0;
-  margin-left: auto;
-}
-@media (min-width: 1500px) {
-  .cid-umA72jA1yN .container {
-    max-width: 1400px;
-  }
-}
-.cid-umA72jA1yN .mbr-iconfont {
-  display: block;
-  font-size: 50px;
-  color: #ffffff;
-  margin-bottom: 10px;
-}
-.cid-umA72jA1yN .card-wrapper {
-  box-shadow: inset 0px 0px 5px 6px rgba(0, 0, 0, 0);
-  padding: 2rem;
-  padding-top: 2rem;
-  border-radius: 2rem;
-}
-.cid-umA72jA1yN .row {
-  justify-content: center;
-}
-.cid-umA72jA1yN .card-title,
-.cid-umA72jA1yN .iconfont-wrapper,
-.cid-umA72jA1yN .dot {
-  color: #000000;
-}
-.cid-umA72jA1yN .mbr-section-title {
-  padding-bottom: 5px;
-  color: #ffffff;
-}
-.cid-umA72jA1yN .mbr-section-subtitle {
-  color: #f7f7f7;
-}
-.cid-umA72jA1yN .card-text {
-  color: #757b62;
-}
 #Fondswerven-wat-ik-doe {
   /* Type valid CSS here */
 }
