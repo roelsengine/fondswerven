@@ -1371,7 +1371,7 @@ a {
   /* Type valid CSS here */
 }
 #custom-html-2a div {
-  padding: 20pt ;
+  padding: 5pt;
   color: white;
   text-align: center;
   background-color: #000;
@@ -1467,6 +1467,12 @@ a {
 }
 .cid-ujtf5JXw2B .mbr-section-subtitle {
   color: #f7f7f7;
+}
+.cid-ujtf5JXw2B p {
+  font-size: 24px;
+  color: white;
+  padding: 15px;
+  line-height: 1.5;
 }
 #Fondswerven-wat-ik-doe {
   /* Type valid CSS here */
@@ -1639,6 +1645,12 @@ a {
 }
 .cid-ujtfdkivTQ .mbr-section-subtitle {
   color: #ffffff;
+}
+.cid-ujtfdkivTQ p {
+  font-size: 24px;
+  color: white;
+  padding: 15px;
+  line-height: 1.5;
 }
 .cid-umA74PfZr5 {
   padding-top: 2rem;
