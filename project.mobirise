@@ -65,7 +65,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "global_header_custom": " <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n  <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n  <link href=\"https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap\" rel=\"stylesheet\">\n"
   },
   "pages": {
     "index.html": {
