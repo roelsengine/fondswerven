@@ -1382,10 +1382,10 @@ a {
 #custom-html-2u .lora-subtitle-italic-700 {
   font-family: "Lora", serif;
   font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 100;
   font-style: italic;
   font-size: 20px;
-  color: white;
+  color: f3f3f3;
   line-height: 1.6;
 }
 .cid-umDO3ZkIGq {
