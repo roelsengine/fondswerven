@@ -1476,8 +1476,6 @@ a {
   line-height: 1.6;
 }
 .cid-ujtf5JXw2B {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
   background-color: #000000;
 }
 .cid-ujtf5JXw2B .mbr-fallback-image.disabled {
@@ -1503,6 +1501,15 @@ a {
   color: white;
   padding: 15px;
   line-height: 1.5;
+}
+.cid-ujtf5JXw2B .lora-subtitle-italic-700 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 10;
+  font-style: italic;
+  font-size: 24px;
+  color: #9fa19b;
+  line-height: 1.6;
 }
 #Fondswerven-wat-ik-doe {
   /* Type valid CSS here */
@@ -1666,8 +1673,6 @@ a {
   max-width: 800px;
 }
 .cid-ujtfdkivTQ {
-  padding-top: 3rem;
-  padding-bottom: 0rem;
   background-color: #000000;
 }
 .cid-ujtfdkivTQ .mbr-fallback-image.disabled {
@@ -1711,6 +1716,15 @@ a {
 }
 #custom-html-2j h1 {
   font-size: 45px;
+}
+#custom-html-2j .lora-subtitle-italic-700 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 10;
+  font-style: italic;
+  font-size: 26px;
+  color: #9fa19b;
+  line-height: 1.6;
 }
 .cid-umFhVtrd8a {
   padding-top: 0rem;
