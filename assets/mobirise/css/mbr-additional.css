@@ -1367,23 +1367,26 @@ a {
   text-align: center;
   color: #ffffff;
 }
-#custom-html-2a {
+#custom-html-2u {
   /* Type valid CSS here */
 }
-#custom-html-2a div {
-  padding: 5pt;
+#custom-html-2u div {
+  padding: 10%;
   color: white;
   text-align: center;
   background-color: #000;
 }
-#custom-html-2a p {
-  font-size: 24px;
-  color: white;
-  padding: 15px;
-  line-height: 1.5;
-}
-#custom-html-2a h1 {
+#custom-html-2u h1 {
   font-size: 45px;
+}
+#custom-html-2u .lora-subtitle-italic-700 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: italic;
+  font-size: 20px;
+  color: white;
+  line-height: 1.6;
 }
 .cid-umDO3ZkIGq {
   padding-top: 2rem;

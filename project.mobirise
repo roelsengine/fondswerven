@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 102,
+    "uniqCompNum": 103,
     "versionPublish": "5.9.18",
     "imageResize": true,
     "publishEditFolder": false,
@@ -904,8 +904,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1><strong>Wat is fondswerven</strong></h1>\n    <p class=\"wat-is-een-fondswerver\">Fondsenwerving is betrokkenheid creëren bij uw project waardoor men uw project wil steunen in welke vorm dan ook: geld, tijd, expertise, materialen.</p>        \n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding:5pt;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\np {\n  font-size: 24px;\n  color: white;\n    padding:15px;\n    line-height:1.5;\n}\nh1{\n    font-size:45px;\n    \n    \n}\n",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1><strong>Wat is fondswerven</strong></h1>\n    <p class=\"lora-subtitle-italic-700\">Fondsenwerving is betrokkenheid creëren bij uw project waardoor men uw project wil steunen in welke vorm dan ook: geld, tijd, expertise, materialen.</p>        \n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 10%;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\n\nh1{\n    font-size:45px;\n    \n    \n}\n    .lora-subtitle-italic-700{\n      font-family: \"Lora\", serif;\n      font-optical-sizing: auto;\n      font-weight: 200;\n      font-style: italic;\n      font-size: 20px;\n          color: white;\n    line-height:1.6;\n    }\n\n\n\n\n\n",
           "alias": "code-editor",
           "_tags": [
             "Extension"
@@ -915,7 +915,7 @@
           "_JSplaceholders": [],
           "_PHPplaceholders": [],
           "_params": {},
-          "_anchor": "custom-html-2a"
+          "_anchor": "custom-html-2u"
         },
         {
           "alias": false,
