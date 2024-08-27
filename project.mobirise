@@ -923,7 +923,7 @@
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n    <h1><strong>Wat is fondswerven</strong></h1>\n    <p class=\"lora-subtitle-italic-700\">Fondsenwerving is betrokkenheid creëren bij uw project waardoor men uw project wil steunen in welke vorm dan ook: geld, tijd, expertise, materialen.</p>\n\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 10%;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\n\nh1{\n    font-size:45px;\n    \n    \n}\n    .lora-subtitle-italic-700{\n      font-family: \"Lora\", serif;\n      font-optical-sizing: auto;\n      font-weight: 100;\n      font-style: italic;\n      font-size: 20px;\n          color: #9fa19b;\n    line-height:1.6;\n    }\n\n\n\n\n\n",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 10%;\n  color: white;\n  text-align: center;\n    background-color: #000;\n\n    \n}\n\nh1{\n    font-size:45px;\n    \n    \n}\n    .lora-subtitle-italic-700{\n      font-family: \"Lora\", serif;\n      font-optical-sizing: auto;\n      font-weight: 10;\n      font-style: italic;\n      font-size: 24px;\n          color: #9fa19b;\n    line-height:1.6;\n    }\n\n\n\n\n\n",
           "alias": "code-editor",
           "_tags": [
             "Extension"
