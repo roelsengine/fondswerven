@@ -1367,6 +1367,15 @@ a {
   text-align: center;
   color: #ffffff;
 }
+.cid-ujaseIiTwz .lora-subtitle-italic-700 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: italic;
+  font-size: 28px;
+  color: #fff;
+  line-height: 1.6;
+}
 #custom-html-2u {
   /* Type valid CSS here */
 }
