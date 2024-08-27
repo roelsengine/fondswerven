@@ -1467,12 +1467,12 @@ a {
   display: block;
   font-size: 50px;
   color: #ffffff;
-  margin-bottom: 10px;
+  margin-bottom: 10pt;
 }
 .cid-umAclU0EBE .card-wrapper {
-  box-shadow: inset 0px 0px 5px 6px rgba(0, 0, 0, 0);
-  padding: 2rem;
-  padding-top: 2rem;
+  box-shadow: inset 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  padding: 0pt;
+  padding-top: 0pt;
   border-radius: 2rem;
 }
 .cid-umAclU0EBE .row {
