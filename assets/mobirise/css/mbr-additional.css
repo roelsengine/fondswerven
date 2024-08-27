@@ -1317,8 +1317,8 @@ a {
   background-image: url("../../../assets/images/background-berry-fade-1-2000x1333.jpg");
 }
 .cid-ujaseIiTwz .mbr-overlay {
-  background-color: #1f6463;
-  opacity: 0.8;
+  background-color: #000000;
+  opacity: 0.2;
 }
 .cid-ujaseIiTwz .content-wrap {
   padding: 5rem 1rem;
@@ -1373,6 +1373,15 @@ a {
   font-weight: 100;
   font-style: italic;
   font-size: 22px;
+  color: #fff;
+  line-height: 1.6;
+}
+.cid-ujaseIiTwz .lora-subtitle-700 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 29px;
   color: #fff;
   line-height: 1.6;
 }
