@@ -1487,6 +1487,8 @@ a {
   line-height: 1.6;
 }
 .cid-ujtf5JXw2B {
+  padding-top: 3rem;
+  padding-bottom: 1rem;
   background-color: #000000;
 }
 .cid-ujtf5JXw2B .mbr-fallback-image.disabled {
@@ -1524,7 +1526,7 @@ a {
 }
 .cid-umKhP8OSu1 {
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   background-color: #000000;
 }
 .cid-umKhP8OSu1 .mbr-fallback-image.disabled {
@@ -1624,8 +1626,8 @@ a {
   line-height: 1.6;
 }
 .cid-umtFvABpCZ {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #000000;
 }
 .cid-umtFvABpCZ img,
@@ -1702,6 +1704,8 @@ a {
   color: #757b62;
 }
 .cid-ujtfdkivTQ {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #000000;
 }
 .cid-ujtfdkivTQ .mbr-fallback-image.disabled {
@@ -1728,30 +1732,35 @@ a {
   padding: 15px;
   line-height: 1.5;
 }
-#custom-html-2j {
-  /* Type valid CSS here */
+.cid-umKjLpGEjo {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #000000;
 }
-#custom-html-2j div {
-  padding: 20pt ;
-  color: white;
-  text-align: center;
-  background-color: #000;
+.cid-umKjLpGEjo .mbr-fallback-image.disabled {
+  display: none;
 }
-#custom-html-2j p {
-  font-size: 24px;
-  color: white;
-  padding: 15px;
-  line-height: 1.5;
+.cid-umKjLpGEjo .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
-#custom-html-2j h1 {
-  font-size: 45px;
+.cid-umKjLpGEjo .mbr-section-title {
+  color: #ffffff;
 }
-#custom-html-2j .lora-subtitle-italic-700 {
+.cid-umKjLpGEjo .mbr-section-subtitle {
+  color: #edefeb;
+}
+.cid-umKjLpGEjo .lora-subtitle-italic-700 {
   font-family: "Lora", serif;
   font-optical-sizing: auto;
   font-weight: 10;
   font-style: italic;
-  font-size: 26px;
+  font-size: 24px;
   color: #9fa19b;
   line-height: 1.6;
 }
